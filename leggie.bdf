@@ -15,7 +15,7 @@ SLANT "R"
 SETWIDTH_NAME "Normal"
 PIXEL_SIZE 12
 CAP_HEIGHT 7
-COPYRIGHT "2012-2014 Wiktor W Brodlo. Released under SIL OFL"
+COPYRIGHT "2012-2015 Wiktor W Brodlo. Released under SIL OFL"
 COMMENT "Please visit http://wiktorb.eu/leggie"
 FONT "leggie"
 FOUNDRY "wiktorb"
@@ -3374,8 +3374,8 @@ BBX 6 12 0 -2
 BITMAP
 00
 00
-14
 28
+50
 00
 78
 44
