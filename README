@@ -30,6 +30,15 @@ Currently supported scripts are: Armenian, Cyrillic, Hebrew, Glagolitic, Latin
 I am always interested in adding new glyphs, so please let me know if there are
 any characters/languages that you need and I will try to add them.
 
+Patches
+-------
+
+Version 0.1707.2 introduced optional patches. Look in the patches directory and
+if you see anything you like, just apply them: patch < patches/your.patch.
+
+Please send me your patches to <wiktor@brodlo.net>. Make sure to include your
+name, email address, and a list of glyphs you've changed.
+
 Legal
 -----
 
