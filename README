@@ -3,8 +3,8 @@ Leggie
 
 Leggie is a pleasant, legible monospaced (character cell) bitmap font. It was
 designed for readability and long work in a terminal. It's one of the very few
-sans-serif monospace fonts. Leggie is available in 6x12 px. I think leggie is
-more readable than Terminus at 12 px, because the letters are slightly shorter,
+sans-serif monospace fonts. Leggie is available in 6x12 px and 9x18 px. I think
+leggie is more readable than Terminus, because the letters are slightly shorter,
 resulting in a bit more inter-line space (while still giving you the same number
 of lines).
 
