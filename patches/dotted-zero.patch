@@ -9,8 +9,8 @@ Modifies:
  U+2070 SUPERSCRIPT ZERO
  U+2080 SUBSCRIPT ZERO
 
---- a/leggie.bdf
-+++ b/leggie.bdf
+--- a/leggie-12.bdf
++++ b/leggie-12.bdf
 @@ -337,9 +337,9 @@ BITMAP
  00
  38
