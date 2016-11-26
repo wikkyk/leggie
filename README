@@ -3,10 +3,15 @@ Leggie
 
 Leggie is a pleasant, legible monospaced (character cell) bitmap font. It was
 designed for readability and long work in a terminal. It's one of the very few
-sans-serif monospace fonts. Leggie is available in 6x12 px and 9x18 px. I think
-leggie is more readable than Terminus, because the letters are slightly shorter,
-resulting in a bit more inter-line space (while still giving you the same number
-of lines).
+sans-serif monospace fonts. Leggie is available in the following sizes:
+
+ - 6x12 px
+ - 9x18 px
+ - 12x24 px.
+
+I think leggie is more readable than Terminus, because the letters are slightly
+shorter, resulting in a bit more inter-line space (while still giving you the
+same number of lines).
 
 There is a good selection of glyphs available:
 
@@ -24,8 +29,8 @@ There is a good selection of glyphs available:
  - ಠ_ಠ
 
 Overall, all living European languages and some Asian languages are supported.
-Currently supported scripts are: Armenian, Cyrillic, Hebrew, Glagolitic, Latin
-(including Vietnamese and Pinyin).
+Currently supported scripts are: Armenian, Cyrillic, Hebrew, Latin (including
+Vietnamese and Pinyin).
 
 I am always interested in adding new glyphs, so please let me know if there are
 any characters/languages that you need and I will try to add them.
