@@ -44,6 +44,27 @@ if you see anything you like, just apply them: patch < patches/your.patch.
 Please send me your patches to <wiktor@brodlo.net>. Make sure to include your
 name, email address, and a list of glyphs you've changed.
 
+Linux console fonts (PSF)
+-------------------------
+
+Version 2.1651 introduced support for generating Linux console fonts. Just run
+make psf. Make sure to have the bdf2psf program installed, it's available in
+most popular distributions and from
+https://packages.debian.org/sid/all/bdf2psf/download.
+
+Installing
+----------
+
+To only install the BDFs, run make installbdf. By default it installs to
+/usr/share/fonts. If you want to install to a custom directory, e.g. ~/.fonts,
+run make BDFDEST=~/.fonts installbdf.
+
+To install the PSFs, run make installpsf. By default it installs to
+/usr/share/consolefonts. Similar to the above, you can pass PSFDEST to install
+to a custom directory.
+
+To install both, run make install. You can still pass BDFDEST and PSFDEST.
+
 Legal
 -----
 
@@ -51,3 +72,4 @@ Leggie is Copyright 2012-2016 Wiktor W Brodlo. Released under the SIL Open Font
 License. "Leggie" is a Reserved Font Name, so if you want to distribute your
 modifications, please change the name (you can include the word "leggie" in your
 name, but add something from yourself).
+
