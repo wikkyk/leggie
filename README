@@ -27,10 +27,11 @@ There is a good selection of glyphs available:
  - Nice punctuation
  - Braille (3- and 4-row)
  - ಠ_ಠ
+ - ...
 
 Overall, all living European languages and some Asian languages are supported.
-Currently supported scripts are: Armenian, Cyrillic, Hebrew, Latin (including
-Vietnamese and Pinyin).
+Currently supported scripts are: Armenian, Cyrillic, Georgian (Mkhedruli),
+Hebrew, Latin (including Vietnamese and Pinyin).
 
 I am always interested in adding new glyphs, so please let me know if there are
 any characters/languages that you need and I will try to add them.
