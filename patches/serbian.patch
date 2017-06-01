@@ -1,0 +1,67 @@
+Serbian/Macedonian Cyrillic shapes
+
+Author: wiktor w brodlo <wiktor@brodlo.net>
+Modifies:
+ U+0431 CYRILLIC SMALL LETTER BE
+--- a/leggie-12.bdf
++++ b/leggie-12.bdf
+@@ -12285,11 +12285,11 @@
+ BBX 6 12 0 -2
+ BITMAP
+ 00
+-04
+-18
+-20
++00
++38
+ 40
+-78
++20
++38
+ 44
+ 44
+ 44
+--- a/leggie-18.bdf
++++ b/leggie-18.bdf
+@@ -16157,12 +16157,12 @@
+ 0000
+ 0000
+ 0000
+-0100
+-1E00
+-2000
++3E00
+ 4000
+ 4000
+-7E00
++2000
++1000
++3E00
+ 4100
+ 4100
+ 4100
+--- a/leggie-24.bdf
++++ b/leggie-24.bdf
+@@ -20027,15 +20027,15 @@
+ 0000
+ 0000
+ 0000
+-0060
+-07C0
++0000
+ 1F80
+-1800
+-3000
+-3000
++3F80
++6000
+ 6000
+-7F80
+-7FC0
++3800
++0E00
++1F80
++3FC0
+ 6060
+ 6060
+ 6060
