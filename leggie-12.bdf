@@ -1,5 +1,5 @@
 STARTFONT 2.1
-FONT -wiktorb-leggie-Medium-R-Normal--12----C-60-ISO10646-1
+FONT -memleek-leggie-medium-r-normal--12----c-60-iso10646-1
 SIZE 12 75 75
 FONTBOUNDINGBOX 6 12 0 -2
 STARTPROPERTIES 17
@@ -7,14 +7,14 @@ AVERAGE_WIDTH 60
 CAP_HEIGHT 7
 CHARSET_ENCODING "1"
 CHARSET_REGISTRY "ISO10646"
-COMMENT "Please visit https://wiktorb.eu/leggie"
-COPYRIGHT "2012-2017 Wiktor W Brodlo. Released under SIL OFL"
+COMMENT "Please visit https://memleek.org/leggie"
+COPYRIGHT "2012-2018 W. Kerr. Licensed under CC BY 4.0"
 DEFAULT_CHAR 65535
 FAMILY_NAME "leggie"
 FONT "leggie"
 FONT_ASCENT 10
 FONT_DESCENT 2
-FOUNDRY "wiktorb"
+FOUNDRY "memleek"
 PIXEL_SIZE 12
 SETWIDTH_NAME "Normal"
 SLANT "R"

@@ -42,8 +42,8 @@ Patches
 Version 0.1707.2 introduced optional patches. Look in the patches directory and
 if you see anything you like, just apply them: patch < patches/your.patch.
 
-Please send me your patches to <wiktor@brodlo.net>. Make sure to include your
-name, email address, and a list of glyphs you've changed.
+Please send me your patches to <w@kerr.sh>. Make sure to include your name,
+email address, and a list of glyphs you've changed.
 
 Linux console fonts (PSF)
 -------------------------
@@ -69,8 +69,6 @@ To install both, run make install. You can still pass BDFDEST and PSFDEST.
 Legal
 -----
 
-Leggie is Copyright 2012-2016 Wiktor W Brodlo. Released under the SIL Open Font
-License. "Leggie" is a Reserved Font Name, so if you want to distribute your
-modifications, please change the name (you can include the word "leggie" in your
-name, but add something from yourself).
-
+Leggie is Copyright 2012-2018 Wiktor Kerr.
+Licensed under a Creative Commons Attribution 4.0 International License (CC BY).
+Please see the LICENCE file or https://creativecommons.org/licenses/by/4.0/.
