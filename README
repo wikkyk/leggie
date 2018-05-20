@@ -7,7 +7,14 @@ sans-serif monospace fonts. Leggie is available in the following sizes:
 
  - 6x12 px
  - 9x18 px
- - 12x24 px.
+ - 12x24 px
+
+in styles:
+
+ - Normal
+ - Bold
+ - Italic
+ - Bold italic.
 
 I think leggie is more readable than Terminus, because the letters are slightly
 shorter, resulting in a bit more inter-line space (while still giving you the
@@ -35,6 +42,12 @@ Hebrew, Latin (including Vietnamese and Pinyin).
 
 I am always interested in adding new glyphs, so please let me know if there are
 any characters/languages that you need and I will try to add them.
+
+Bold and italic
+---------------
+
+The extra styles are still being tested and for now only contain the glyphs from
+the ISO 8859 charsets (all supported parts).
 
 Patches
 -------

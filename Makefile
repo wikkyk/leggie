@@ -12,13 +12,13 @@ PSFUGZS = $(PSFUS:.psfu=.psfu.gz)
 
 installbdf:
 	mkdir -p $(BDFDEST)/leggie
-	cp LICENSE README $(BDFDEST)/leggie
+	cp LICENCE README $(BDFDEST)/leggie
 	cp $(BDFS) $(BDFDEST)/leggie
 	mkfontdir $(BDFDEST)/leggie
 
 installpsf: psf
 	mkdir -p $(PSFDEST)
-	cat README LICENSE > $(PSFDEST)/README.leggie
+	cat README LICENCE > $(PSFDEST)/README.leggie
 	gzip -1 $(PSFUS)
 	cp $(PSFUGZS) $(PSFDEST)
 
