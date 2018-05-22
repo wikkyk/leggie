@@ -14,7 +14,7 @@ installbdf:
 	mkdir -p $(BDFDEST)/leggie
 	cp LICENCE README $(BDFDEST)/leggie
 	cp $(BDFS) $(BDFDEST)/leggie
-	mkfontdir $(BDFDEST)/leggie
+	cp fonts.dir $(BDFDEST)/leggie
 
 installpsf: psf
 	mkdir -p $(PSFDEST)
