@@ -68,21 +68,6 @@ make psf. Make sure to have the bdf2psf program installed, it's available in
 most popular distributions and from
 https://packages.debian.org/sid/all/bdf2psf/download.
 
-Version 3.2 introduced EGA- and VGA-compatible sizes which can be loaded into
-both a framebuffer console as well as a text mode console. There are three sets
-of console font files generated:
-
- - EGA/VGA text mode CP437: leggie-{e,v}ga.psf
- - EGA/VGA text mode Unicode: leggie-{e,v}gauni.psfu
- - Framebuffer mode Unicode: leggie-1{4,6}v.psfu
-
-The text mode sets are arranged to make use of the hardware generated column 9.
-The CP437 set is arranged for compatibility with Codepage 437, the default
-character set of EGA and VGA.
-
-The text mode fonts can of course be loaded into a framebuffer console for eight
-column-wide glyphs.
-
 Installing
 ----------
 
